@@ -1,4 +1,12 @@
 # Olá! Eu sou o Vinícius Bernardo
+-❤ Apaixonado por programação ;
+<br>
+-📖 Cursando Tecnólogo: Análise e Desenvolvimento de Sistema ;
+<br>
+-📚 Me aprofundando em C# ;
+<br>
+-🤵 Em busca de uma Oportunidade, como Dev Full Stack ;
+##
 <div>
   <a href="https://github.com/ViniciusBernardo29"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBernardo29&show_icon=false&theme=radical&include_all_commits-true&count_private-true"/>
@@ -12,7 +20,7 @@
      <img align="center" alt="Vini-C#" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
      <img align="center" alt="Vini-Ts" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
      <img align="center" alt="Vini-Bst" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/>
-     <img align="center" alt="Vini-Rct" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     <img align="center" alt="Vini-Rct" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 </div>
 <br>
