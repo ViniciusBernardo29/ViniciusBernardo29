@@ -9,7 +9,7 @@
 ##
 <div>
   <a href="https://github.com/ViniciusBernardo29"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBernardo29&show_icon=false&theme=radical&include_all_commits-true&count_private-true"/>
+    <img height="149em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBernardo29&show_icon=false&theme=radical&include_all_commits-true&count_private-true"/>
   </a>
     <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBernardo29&layout=compact&langs_count-16&theme=radical"/>
 </div>
